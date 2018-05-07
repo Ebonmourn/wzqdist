@@ -19,6 +19,8 @@ axp = this is the average lvl found from the quests, tlvl / qnum
 
 xp/lvl = this is the average xp found per quest, txp / qnum
 
+txp/alvl/adist = this is the xp, scaled to the average level of the quests, per unit of distance traveled
+
 qnum = this is the total number of quest id's that were used
 
 qdata = this is just a storage of all the quest id's and the lvl and xp amounts a script I made found for the id's
