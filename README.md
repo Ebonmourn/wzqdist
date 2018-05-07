@@ -3,11 +3,11 @@
 the .xlsx is just the csv with the data in a table format and as an excel document
 
 
-tdist = total distance traveled between map markers in wow-pro leveling guides
+tdist(sum) = total distance traveled between map markers in wow-pro leveling guides
 
-tnum = total number of quest turn-in steps found in the guides
+tnum(snum) = total number of quest turn-in steps found in the guides
 
-adist = average distance traveled per quest turn-in step
+adist(mean) = average distance traveled per quest turn-in step
 
 txp = total xp found from the quests (this will be lower for the starter zones and the level cap zones since they don't have a proper max scaled lvl on the wow db site (were i pulled the quest xp data from)
 
