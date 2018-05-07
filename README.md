@@ -2,6 +2,8 @@
 
 the .xlsx is just the csv with the data in a table format and as an excel document
 
+It is important to note that these distances are the raw distance calculation between each waypoint in the steps of the wow-pro leveling guides same for the quest turn ins and quest ids that are used. This means that there is likely to be some fudgy-ness for some zones since some times not all quest id's are actually possible to do or even some waypoints are between zones which this calculation doesn't try to rationalize with it just finds the raw distance between each waypoint x,y coordinate.
+
 
 tdist(sum) = total distance traveled between map markers in wow-pro leveling guides
 
